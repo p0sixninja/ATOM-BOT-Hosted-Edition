@@ -6,6 +6,13 @@ This Version Can Be Posted To Any Hosting Server With No Modifications, Be Sure 
 This version as it will fail upon running, if you want console output, you will need to host it yourself and get The ATOM Bot, Host It Yourself.
 
 
+This bot will accept the following commands, 
+
+/stepupbot , steps the bot up to the dj spot
+/stepdownbot , ^ steps down
+/botvoteup , makes bot vote manually
+
+
 Be Sure to add your bots login information before running...
 
 
