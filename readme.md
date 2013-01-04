@@ -8,6 +8,7 @@ This version as it will fail upon running, if you want console output, you will 
 
 This bot will accept the following commands, 
 
++
 /stepupbot , steps the bot up to the dj spot
 /stepdownbot , ^ steps down
 /botvoteup , makes bot vote manually
